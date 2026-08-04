@@ -3,7 +3,7 @@ title: "Contact Me"
 date: 2026-08-04T09:20:00+03:00
 draft: false
 ---
-You can use the form below to get in touch with me. I will get back to you as soon as possible.
+***You can use the form below to get in touch with me. I will get back to you as soon as possible.***
 
 <form name="contact" method="POST" data-netlify="true" class="contact-form">
   <p>

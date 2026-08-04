@@ -3,7 +3,7 @@ title: "Bültene Abone Olun"
 date: 2026-08-04T09:20:00+03:00
 draft: false
 ---
-Yeni yazılarımdan haberdar olmak için e-posta bültenime kayıt olabilirsiniz.
+***Yeni yazılarımdan haberdar olmak için e-posta bültenime kayıt olabilirsiniz.***
 
 <!-- MailerLite Form Placeholder Başlangıcı -->
 <div id="mlb2-placeholder" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-placeholder">

@@ -3,7 +3,7 @@ title: "Subscribe to Newsletter"
 date: 2026-08-04T09:20:00+03:00
 draft: false
 ---
-Subscribe to my email newsletter to know about new posts. 
+***Subscribe to my email newsletter to know about new posts.***
 
 <!-- MailerLite Form Placeholder Başlangıcı -->
 <div id="mlb2-placeholder" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-placeholder">

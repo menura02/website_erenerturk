@@ -1,18 +1,12 @@
-Initial setup and multi-language (EN/TR) integration / Başlangıç yapılandırması ve çoklu dil entegrasyonu
+Content updates and new post automation script / İçerik güncellemeleri ve yeni yazı otomasyon betiği
 
-This commit establishes the core structure of the project and prepares the personal website infrastructure by cleaning up the default theme content.
-
-Detailed changes:
-- Cleanup: Removed unnecessary demo content, layout test pages, documentation, and Chinese (zh-tw) language support that came with the theme (monochrome).
-- Multi-language Support: Configured languages.toml and added related menu files to enable the site to work in English (en) and Turkish (tr).
-- Content Organization: Moved contact.md and newsletter.md to their respective language directories, created the tr/ directory, and added the first post (ilk-yazi.md).
-- Customization: Updated hugo.toml and params.toml. Added custom styles (assets/) and templates (layouts/).
+- Added `new-post.ps1` PowerShell script to automate bilingual post creation.
+- Renamed the post archetype from `posts` to `post`.
+- Replaced initial test posts with new ones (`test1`).
+- Updated the intro text formatting in contact and newsletter pages for both languages (bold-italic).
 
 TR:
-Bu commit, projenin temel yapısını oluşturur ve varsayılan tema içeriğini temizleyerek kişisel web sitesi altyapısını hazırlar.
-
-Detaylı değişiklikler:
-- Temizlik: Temayla (monochrome) birlikte gelen gereksiz demo içerikler, layout test sayfaları, dökümantasyonlar ve Çince (zh-tw) dil desteği kaldırıldı.
-- Çoklu Dil Desteği: Sitenin İngilizce (en) ve Türkçe (tr) olarak çalışabilmesi için languages.toml yapılandırıldı ve ilgili menü dosyaları eklendi.
-- İçerik Organizasyonu: contact.md ve newsletter.md ilgili dil dizinlerine taşındı, tr/ dizini açıldı ve ilk-yazi.md eklendi.
-- Özelleştirme: hugo.toml, params.toml güncellendi. Özel stil (assets/) ve şablonlar (layouts/) eklendi.
+- Yeni blog yazıları (EN/TR) oluşturmayı kolaylaştırmak için `new-post.ps1` betiği eklendi.
+- Hugo archetype şablonu `posts` yerine `post` olarak güncellendi.
+- Önceki deneme yazıları silinip yerine yeni test yazıları (`test1`) eklendi.
+- İletişim (contact) ve bülten (newsletter) sayfalarındaki giriş metinleri kalın-italik formata dönüştürülerek vurgulandı.
