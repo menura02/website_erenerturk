@@ -1,7 +1,7 @@
-navbar_title = 'Monochrome'
+navbar_title = 'Eren Ertürk'
 hide_navbar_on_scroll = true
-footer = "Copyright © 2021-2026 by kaiiiz"
-author.name = "kaiiiz"
+footer = "Copyright © Eren Ertürk"
+author.name = "Eren Ertürk"
 color_scheme = "light"
 
 enable_zooming_js = true

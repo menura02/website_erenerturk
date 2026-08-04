@@ -1,8 +1,8 @@
 baseURL = "https://example.com"
-locale = "en"
-title = "Monochrome"
+locale = "tr"
+title = "Eren Ertürk"
 theme = "monochrome"
-defaultContentLanguage = "en"
+defaultContentLanguage = "tr"
 enableEmoji = true
 enableGitInfo = true
 

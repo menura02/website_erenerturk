@@ -1,0 +1,23 @@
+[[navbar]]
+  identifier = "home"
+  name = "Ana Sayfa"
+  url = "/"
+  weight = 1
+
+[[navbar]]
+  identifier = "posts"
+  name = "Yazılar"
+  url = "/posts/"
+  weight = 2
+
+[[navbar]]
+  identifier = "newsletter"
+  name = "Bülten"
+  url = "/newsletter/"
+  weight = 3
+
+[[navbar]]
+  identifier = "contact"
+  name = "İletişim"
+  url = "/contact/"
+  weight = 4
