@@ -24,7 +24,7 @@ draft: false
 .contact-form { max-width: 500px; margin-top: 20px; }
 .contact-form p { margin-bottom: 15px; }
 .contact-form label { display: block; font-weight: bold; margin-bottom: 5px; }
-.contact-form input, .contact-form textarea { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
-.contact-form button { padding: 10px 20px; background-color: #333; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
-.contact-form button:hover { background-color: #555; }
+.contact-form input, .contact-form textarea { width: 100%; padding: 10px; border: 1px solid var(--color-border); border-radius: 4px; box-sizing: border-box; background-color: var(--color-background-card); color: var(--color-text); }
+.contact-form button { padding: 10px 20px; background-color: var(--color-text); color: var(--color-background); border: none; border-radius: 4px; cursor: pointer; font-weight: bold; }
+.contact-form button:hover { opacity: 0.8; }
 </style>

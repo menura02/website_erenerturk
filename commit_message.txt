@@ -1,12 +1,6 @@
-Content updates and new post automation script / İçerik güncellemeleri ve yeni yazı otomasyon betiği
+Fix dark mode styling for the contact page message box / İletişim sayfasındaki karanlık mod stil hatası düzeltildi
 
-- Added `new-post.ps1` PowerShell script to automate bilingual post creation.
-- Renamed the post archetype from `posts` to `post`.
-- Replaced initial test posts with new ones (`test1`).
-- Updated the intro text formatting in contact and newsletter pages for both languages (bold-italic).
+Resolved an issue where the message box on the contact page remained white when dark mode was active. The input field now correctly adapts to the active theme's background and text colors.
 
 TR:
-- Yeni blog yazıları (EN/TR) oluşturmayı kolaylaştırmak için `new-post.ps1` betiği eklendi.
-- Hugo archetype şablonu `posts` yerine `post` olarak güncellendi.
-- Önceki deneme yazıları silinip yerine yeni test yazıları (`test1`) eklendi.
-- İletişim (contact) ve bülten (newsletter) sayfalarındaki giriş metinleri kalın-italik formata dönüştürülerek vurgulandı.
+İletişim sayfasındaki (contact) mesaj kutusunun karanlık mod (dark mode) aktifken beyaz kalması ve okunabilirliği bozması sorunu giderildi. Kutu artık temanın aktif moduna uygun şekilde doğru renkleri alıyor.
