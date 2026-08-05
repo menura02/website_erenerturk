@@ -3,7 +3,7 @@ title: "Bana Ulaşın"
 date: 2026-08-04T09:20:00+03:00
 draft: false
 ---
-***Bana ulaşmak için aşağıdaki formu doldurabilirsiniz. Size en kısa sürede geri dönüş yapacağım.***
+Bana ulaşmak için aşağıdaki formu doldurabilirsiniz. Size en kısa sürede geri dönüş yapacağım.
 
 <form name="contact" method="POST" data-netlify="true" class="contact-form">
   <p>

@@ -1,6 +1,6 @@
 ---
-title: "Test1 Turkce"
-date: 2026-08-04T14:32:40+03:00
+title: "TEST"
+date: 2026-08-05T09:47:56+03:00
 draft: true
 description: "description"
 categories: []
