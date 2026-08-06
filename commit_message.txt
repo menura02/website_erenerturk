@@ -1,6 +1,8 @@
-Fix dark mode styling for the contact page message box / İletişim sayfasındaki karanlık mod stil hatası düzeltildi
+Integrate MailerLite for newsletter subscriptions / Bülten abonelikleri için MailerLite entegrasyonu
 
-Resolved an issue where the message box on the contact page remained white when dark mode was active. The input field now correctly adapts to the active theme's background and text colors.
+- Integrated MailerLite forms to manage newsletter subscriptions.
+- Updated the newsletter page with the embedded MailerLite subscription form script and styling.
 
 TR:
-İletişim sayfasındaki (contact) mesaj kutusunun karanlık mod (dark mode) aktifken beyaz kalması ve okunabilirliği bozması sorunu giderildi. Kutu artık temanın aktif moduna uygun şekilde doğru renkleri alıyor.
+- E-posta bülteni aboneliklerini yönetmek için MailerLite entegrasyonu tamamlandı.
+- Bülten (newsletter) sayfasına MailerLite abonelik formu scripti ve tasarımı eklendi.

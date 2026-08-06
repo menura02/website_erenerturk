@@ -11,13 +11,19 @@
   weight = 2
 
 [[navbar]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/en/projects/"
+  weight = 3
+
+[[navbar]]
   identifier = "newsletter"
   name = "Newsletter"
   url = "/en/newsletter/"
-  weight = 3
+  weight = 4
 
 [[navbar]]
   identifier = "contact"
   name = "Contact"
   url = "/en/contact/"
-  weight = 4
+  weight = 5
