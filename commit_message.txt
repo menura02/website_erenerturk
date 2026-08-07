@@ -1,8 +1,8 @@
-Integrate MailerLite for newsletter subscriptions / Bülten abonelikleri için MailerLite entegrasyonu
+Add comprehensive README and remove dummy posts / Kapsamlı README eklendi ve deneme yazıları silindi
 
-- Integrated MailerLite forms to manage newsletter subscriptions.
-- Updated the newsletter page with the embedded MailerLite subscription form script and styling.
+- Added a bilingual (EN/TR) README.md file containing project details, features, installation, and usage instructions.
+- Cleaned up the repository by removing temporary test posts (TEST.md, DENEME.md).
 
 TR:
-- E-posta bülteni aboneliklerini yönetmek için MailerLite entegrasyonu tamamlandı.
-- Bülten (newsletter) sayfasına MailerLite abonelik formu scripti ve tasarımı eklendi.
+- Proje detaylarını, özellikleri, kurulum ve kullanım talimatlarını içeren çift dilli (TR/EN) README.md dosyası eklendi.
+- Geçici test amaçlı oluşturulan deneme yazıları (TEST.md, DENEME.md) silinerek depo temizlendi.
