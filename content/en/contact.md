@@ -18,6 +18,7 @@ draft: false
     <label>Your Message: <textarea name="fi-text-message" required rows="5"></textarea></label>
   </p>
   <div class="cf-turnstile" data-sitekey="0x4AAAAAAELxJl_Hk57pfqsL"></div>
+  <input type="hidden" name="_gotcha" style="display:none !important" />
   <p>
     <button type="submit">Send</button>
   </p>

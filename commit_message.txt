@@ -1,10 +1,8 @@
-Configure GitHub Pages deployment and update contact forms / GitHub Pages dağıtımı yapılandırıldı ve iletişim formları güncellendi
+Add honeypot field to contact forms to prevent spam / İletişim formlarına spam koruması için honeypot eklendi
 
-- Added a GitHub Actions workflow (.github/workflows/hugo.yaml) for automated deployment to GitHub Pages.
-- Updated the base URL in the Hugo configuration and README to point to the new GitHub Pages domain.
-- Migrated the contact forms (TR/EN) from Netlify to Forminit.
+- Added a hidden `_gotcha` input field to the Turkish and English contact forms.
+- This honeypot field acts as a trap to filter out spam bot submissions without affecting legitimate users.
 
 TR:
-- GitHub Pages'e otomatik dağıtım (deployment) yapabilmek için GitHub Actions iş akışı (.github/workflows/hugo.yaml) eklendi.
-- Hugo yapılandırma dosyasındaki (hugo.toml) baseURL ve README içerisindeki canlı site bağlantısı yeni GitHub Pages adresine göre güncellendi.
-- İletişim (contact) sayfalarındaki formlar Netlify altyapısından çıkarılarak Forminit servisine taşındı.
+- Türkçe ve İngilizce iletişim formlarına gizli (hidden) `_gotcha` girdi alanı eklendi.
+- Bu honeypot yöntemi, gerçek kullanıcı deneyimini etkilemeden otomatik spam botlarının form gönderimlerini tespit edip engellemeye yardımcı olacak.
