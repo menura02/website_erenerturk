@@ -1,8 +1,10 @@
-Add comprehensive README and remove dummy posts / Kapsamlı README eklendi ve deneme yazıları silindi
+Configure GitHub Pages deployment and update contact forms / GitHub Pages dağıtımı yapılandırıldı ve iletişim formları güncellendi
 
-- Added a bilingual (EN/TR) README.md file containing project details, features, installation, and usage instructions.
-- Cleaned up the repository by removing temporary test posts (TEST.md, DENEME.md).
+- Added a GitHub Actions workflow (.github/workflows/hugo.yaml) for automated deployment to GitHub Pages.
+- Updated the base URL in the Hugo configuration and README to point to the new GitHub Pages domain.
+- Migrated the contact forms (TR/EN) from Netlify to Forminit.
 
 TR:
-- Proje detaylarını, özellikleri, kurulum ve kullanım talimatlarını içeren çift dilli (TR/EN) README.md dosyası eklendi.
-- Geçici test amaçlı oluşturulan deneme yazıları (TEST.md, DENEME.md) silinerek depo temizlendi.
+- GitHub Pages'e otomatik dağıtım (deployment) yapabilmek için GitHub Actions iş akışı (.github/workflows/hugo.yaml) eklendi.
+- Hugo yapılandırma dosyasındaki (hugo.toml) baseURL ve README içerisindeki canlı site bağlantısı yeni GitHub Pages adresine göre güncellendi.
+- İletişim (contact) sayfalarındaki formlar Netlify altyapısından çıkarılarak Forminit servisine taşındı.

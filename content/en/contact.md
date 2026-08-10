@@ -5,16 +5,19 @@ draft: false
 ---
 ***You can use the form below to get in touch with me. I will get back to you as soon as possible.***
 
-<form name="contact" method="POST" data-netlify="true" class="contact-form">
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
+<form action="https://forminit.com/f/5w2drgzt3zy" method="POST" class="contact-form">
   <p>
-    <label>Your Name: <input type="text" name="name" required /></label>
+    <label>Your Name: <input type="text" name="fi-sender-fullName" required /></label>
   </p>
   <p>
-    <label>Email Address: <input type="email" name="email" required /></label>
+    <label>Your Email Address: <input type="email" name="fi-sender-email" required /></label>
   </p>
   <p>
-    <label>Message: <textarea name="message" required rows="5"></textarea></label>
+    <label>Your Message: <textarea name="fi-text-message" required rows="5"></textarea></label>
   </p>
+  <div class="cf-turnstile" data-sitekey="0x4AAAAAAELxJl_Hk57pfqsL"></div>
   <p>
     <button type="submit">Send</button>
   </p>

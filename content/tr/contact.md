@@ -5,16 +5,19 @@ draft: false
 ---
 ***Bana ulaşmak için aşağıdaki formu doldurabilirsiniz. Size en kısa sürede geri dönüş yapacağım.***
 
-<form name="contact" method="POST" data-netlify="true" class="contact-form">
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
+<form action="https://forminit.com/f/5w2drgzt3zy" method="POST" class="contact-form">
   <p>
-    <label>Adınız: <input type="text" name="name" required /></label>
+    <label>Adınız: <input type="text" name="fi-sender-fullName" required /></label>
   </p>
   <p>
-    <label>E-posta Adresiniz: <input type="email" name="email" required /></label>
+    <label>E-posta Adresiniz: <input type="email" name="fi-sender-email" required /></label>
   </p>
   <p>
-    <label>Mesajınız: <textarea name="message" required rows="5"></textarea></label>
+    <label>Mesajınız: <textarea name="fi-text-message" required rows="5"></textarea></label>
   </p>
+  <div class="cf-turnstile" data-sitekey="0x4AAAAAAELxJl_Hk57pfqsL"></div>
   <p>
     <button type="submit">Gönder</button>
   </p>

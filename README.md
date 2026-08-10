@@ -2,7 +2,7 @@
 
 <br>
 
-> 🌐 **Canlı Site / Live Website:** [https://www.website-linkiniz.com](https://www.website-linkiniz.com) 
+> 🌐 **Canlı Site / Live Website:** [https://menura02.github.io/website_erenerturk/](https://menura02.github.io/website_erenerturk/) 
 
 
 ---
