@@ -2,10 +2,10 @@
 contentDir = "content/tr"
 label = "Türkçe"
 locale = "tr"
-weight = 1
+weight = 2
 
 [en]
 contentDir = "content/en"
 label = "English"
 locale = "en"
-weight = 2
+weight = 1

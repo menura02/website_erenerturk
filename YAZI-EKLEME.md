@@ -30,7 +30,7 @@ Site iki dilli, her dilin kendi klasörü var:
 
 | Dil      | Klasör              | Yazının adresi                                 |
 |----------|---------------------|------------------------------------------------|
-| Türkçe   | `content/tr/posts/` | `https://erenerturk.tech/posts/<dosya-adi>/`    |
+| Türkçe   | `content/tr/posts/` | `https://erenerturk.tech/tr/posts/<dosya-adi>/`    |
 | İngilizce| `content/en/posts/` | `https://erenerturk.tech/en/posts/<dosya-adi>/` |
 
 **Dosya adı kuralları:**
@@ -144,9 +144,9 @@ git pull --rebase origin main
 
 ## 8. Sitede kontrol et
 
-- Türkçe yazı: `https://erenerturk.tech/posts/ilk-yazim/`
+- Türkçe yazı: `https://erenerturk.tech/tr/posts/ilk-yazim/`
 - İngilizce yazı: `https://erenerturk.tech/en/posts/ilk-yazim/`
-- Yazılar listesi: `https://erenerturk.tech/posts/`
+- Yazılar listesi: `https://erenerturk.tech/tr/posts/`
 
 Eski hali görünüyorsa sayfayı **Ctrl+F5** ile yenile.
 

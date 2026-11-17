@@ -5,9 +5,9 @@ hero:
   title: "Merhaba, Ben Eren."
   subtitle: "Web tabanlı mimariler ve yönetim sistemleri üzerine projeler geliştiren, odağını siber güvenlik temellerine ve güvenli sistem tasarımına yöneltmiş bir geliştiriciyim."
   btn_primary: "İletişime Geç"
-  btn_primary_link: "/contact"
+  btn_primary_link: "/tr/contact"
   btn_secondary: "Projelerim"
-  btn_secondary_link: "/projects"
+  btn_secondary_link: "/tr/projects"
 features:
   title: "Neler Yapıyorum?"
   items:

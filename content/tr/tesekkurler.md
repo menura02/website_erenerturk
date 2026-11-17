@@ -9,8 +9,8 @@ sitemap:
 ***Mesajınız bana ulaştı. Okuyup en kısa sürede size e-posta ile geri dönüş yapacağım.***
 
 <div class="thanks-actions">
-  <a href="/" class="thanks-btn">Ana Sayfaya Dön</a>
-  <a href="/projects/" class="thanks-link">Projelerime göz atın &rarr;</a>
+  <a href="/tr/" class="thanks-btn">Ana Sayfaya Dön</a>
+  <a href="/tr/projects/" class="thanks-link">Projelerime göz atın &rarr;</a>
 </div>
 
 <style>
