@@ -5,12 +5,6 @@
   weight = 1
 
 [[navbar]]
-  identifier = "posts"
-  name = "Posts"
-  url = "/en/posts/"
-  weight = 2
-
-[[navbar]]
   identifier = "projects"
   name = "Projects"
   url = "/en/projects/"

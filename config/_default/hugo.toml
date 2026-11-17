@@ -5,6 +5,7 @@ theme = "monochrome"
 defaultContentLanguage = "tr"
 enableEmoji = true
 enableGitInfo = true
+enableRobotsTXT = true
 
 [pagination]
 pagerSize = 5
