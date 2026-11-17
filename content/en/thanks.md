@@ -14,8 +14,8 @@ sitemap:
 </div>
 
 <style>
-.thanks-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 20px; margin-top: 30px; }
-.thanks-btn { padding: 10px 20px; background-color: var(--color-text); color: var(--color-background) !important; border-radius: 4px; font-weight: bold; text-decoration: none !important; }
+.thanks-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 20px; font-size: 14px; }
+.thanks-btn { padding: 6px 14px; background-color: var(--color-text); color: var(--color-background) !important; border-radius: 4px; font-weight: 600; text-decoration: none !important; }
 .thanks-btn:hover { opacity: 0.8; }
-.thanks-link { font-weight: bold; }
+.thanks-link { font-weight: 600; }
 </style>
