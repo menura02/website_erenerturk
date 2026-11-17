@@ -1,6 +1,6 @@
 ---
 title: "Teşekkürler"
-date: 2026-11-17T15:00:00+03:00
+date: 2026-11-17T09:00:00+03:00
 draft: false
 translationKey: "thanks"
 sitemap:
